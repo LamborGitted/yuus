@@ -1,0 +1,11 @@
+# Tauri build artifacts
+src-tauri/target/
+
+# Auto-generated Tauri schemas & bindings
+src-tauri/gen/
+
+# Frontend build output
+dist/
+
+# Dependencies
+node_modules/
