@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat" alt="License">
 </p>
 
+<p align="center">
+  <a href="assets/README.zh-CN.md">简体中文</a>
+</p>
+
 ---
 
 **Yuus** is a desktop application for batch image replacement. Import a directory, assign replacement images, preview side-by-side, then commit swaps with full undo/redo and audit trail.
